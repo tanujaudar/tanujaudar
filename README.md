@@ -1,16 +1,16 @@
 # Hi there 👋 I'm Tanuja Udar
 
-🎓 Computer Engineering Student | 💻 Aspiring Software Engineer | 🚀 Technology Enthusiast
+🎓 Computer Engineering Student | 💻 Aspiring Software Engineer | 🚀 Passionate about Technology
 
 ---
 
 ## 👩‍💻 About Me
 
-I am Tanuja Udar, currently pursuing Computer Engineering.
+I am Tanuja Udar, a Computer Engineering student with a strong interest in software development and technology.
 
-I am passionate about programming, problem solving, and building useful technology solutions.
+I enjoy solving problems, writing code, and building projects that help me apply what I learn in real-world scenarios.
 
-I enjoy learning new technologies, developing projects, and continuously improving my technical skills.
+I am continuously exploring new technologies, improving my technical skills, and working towards becoming a skilled Software Engineer.
 
 ---
 
@@ -70,9 +70,9 @@ I am interested in exploring and learning more about:
 
 ## 🎯 Career Goals
 
--Become a skilled Software Engineer
--Strengthen my programming and problem-solving skills
--Build meaningful and impactful software solutions
--Gain practical industry experience
--Contribute to real-world projects
--Continuously learn and grow in the field of technology
+- Become a skilled Software Engineer
+- Strengthen my programming and problem-solving skills
+- Build meaningful and impactful software solutions
+- Gain practical industry experience
+- Contribute to real-world projects
+- Continuously learn and grow in the field of technology
