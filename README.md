@@ -79,12 +79,14 @@ I am interested in exploring and learning more about:
 
 ---
 
+---
+
 ## 📬 Connect With Me
 
 🔗 **LinkedIn**
 
-linkedin.com/in/tanuja-udar-b83820329
+[LinkedIn](https://www.linkedin.com/in/tanuja-udar-b83820329)
 
 📧 **Email**
 
-tanuja.g.udar@gmail.com
+[tanuja.g.udar@gmail.com](mailto:tanuja.g.udar@gmail.com)
