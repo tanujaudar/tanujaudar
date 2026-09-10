@@ -76,3 +76,15 @@ I am interested in exploring and learning more about:
 - Gain practical industry experience
 - Contribute to real-world projects
 - Continuously learn and grow in the field of technology
+
+---
+
+## 📬 Connect With Me
+
+🔗 **LinkedIn**
+
+linkedin.com/in/tanuja-udar-b83820329
+
+📧 **Email**
+
+tanuja.g.udar@gmail.com
